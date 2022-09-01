@@ -1,0 +1,14 @@
+#output, #resultado {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 18px;
+    float: none;
+    text-align: left;
+    display: none;
+    
+}
+body {
+    text-align: center;
+    background-color: #AA4465;
+}
